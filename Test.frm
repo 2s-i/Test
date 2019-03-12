@@ -11,7 +11,7 @@ Begin VB.Form Form1
    StartUpPosition =   3  'Windows Default
    Begin VB.PictureBox Picture1 
       Height          =   975
-      Left            =   600
+      Left            =   360
       Picture         =   "Test.frx":0000
       ScaleHeight     =   915
       ScaleWidth      =   1155
@@ -24,15 +24,15 @@ Begin VB.Form Form1
       Left            =   3120
       TabIndex        =   2
       Text            =   "Text1"
-      Top             =   120
+      Top             =   480
       Width           =   1095
    End
    Begin VB.CommandButton Command1 
       Caption         =   "Command2"
       Height          =   495
-      Left            =   3000
+      Left            =   2520
       TabIndex        =   0
-      Top             =   2160
+      Top             =   1920
       Width           =   1215
    End
    Begin VB.Label Label1 
