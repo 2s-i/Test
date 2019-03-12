@@ -16,7 +16,7 @@ Begin VB.Form Form1
       ScaleHeight     =   915
       ScaleWidth      =   1155
       TabIndex        =   3
-      Top             =   1560
+      Top             =   1320
       Width           =   1215
    End
    Begin VB.TextBox Text1 
