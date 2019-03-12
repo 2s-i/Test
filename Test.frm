@@ -52,7 +52,7 @@ Begin VB.Form Form1
       Width           =   1215
    End
    Begin VB.Label Label1 
-      Caption         =   "versione 1.2"
+      Caption         =   "versione 1.3"
       Height          =   615
       Left            =   360
       TabIndex        =   1
