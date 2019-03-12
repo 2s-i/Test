@@ -9,6 +9,14 @@ Begin VB.Form Form1
    ScaleHeight     =   3015
    ScaleWidth      =   4560
    StartUpPosition =   3  'Windows Default
+   Begin VB.CheckBox Check1 
+      Caption         =   "Check1"
+      Height          =   255
+      Left            =   2640
+      TabIndex        =   4
+      Top             =   1320
+      Width           =   255
+   End
    Begin VB.PictureBox Picture1 
       Height          =   975
       Left            =   360
@@ -30,13 +38,13 @@ Begin VB.Form Form1
    Begin VB.CommandButton Command1 
       Caption         =   "Command2"
       Height          =   495
-      Left            =   2520
+      Left            =   2880
       TabIndex        =   0
-      Top             =   1920
+      Top             =   2280
       Width           =   1215
    End
    Begin VB.Label Label1 
-      Caption         =   "versione 1.0"
+      Caption         =   "versione 1.1"
       Height          =   615
       Left            =   360
       TabIndex        =   1
